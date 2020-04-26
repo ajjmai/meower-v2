@@ -51,5 +51,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'meower.v2.App'
+    mainClassName = 'meower.App'
 }
